@@ -18,3 +18,5 @@ tensorboard
 python-dotenv
 pyarrow
 fastparquet
+plotly
+lime
